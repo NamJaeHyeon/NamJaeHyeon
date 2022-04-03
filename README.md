@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NamJaeHyeon
 - 👀 I’m interested in conputer science and codding.
-- 🌱 I’m currently learning high school 3rd grade.
+- 🌱 I’m currently in university but I study alone.
 - 💞️ I’m looking to collaborate on I dont know if there is person to be together with me.
 - 📫 How to reach me nwlef1229@naver.com OR rexnamccx1229@gmail.com .
 
