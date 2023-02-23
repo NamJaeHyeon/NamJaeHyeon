@@ -50,4 +50,8 @@ git clone, init, commit, push
 
 Linux (Ubuntu, Debian) 터미널 다루기
 
-kotro.org 프로젝트
+https://kotro.org 프로젝트
+
+AWS(Amazon Web Service) 아마존 클라우드
+
+GCP(Google Cloud Platform) 구글 클라우드
