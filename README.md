@@ -1,4 +1,4 @@
-제가 할줄 아는겁니다.
+- 제가 할줄 아는겁니다.
 
 라이브러리 없이(GPU.js 라이브러리 도입 예정) canvas에 3d 렌더링 알고리즘 짜기
 
@@ -54,22 +54,11 @@ https://kotro.org 프로젝트
 
 AWS(Amazon Web Service) 아마존 클라우드
 
-GCP(Google Cloud Platform) 구글 클라우드
-
-
-
-
+GCP(Google Cloud Platform) 구글 클라우드    
 
     
-        
-          
-           
-            
-             
-              
                
-               
-곧 공부할 겁니다.
+- 곧 공부할 겁니다.
    
 jwt, Oauth 등 Authurization
 
