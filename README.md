@@ -50,4 +50,4 @@ git clone, init, commit, push
 
 Linux (Ubuntu, Debian) 터미널 다루기
 
-kotro.org 
+kotro.org 프로젝트
