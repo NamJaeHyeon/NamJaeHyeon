@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @NamJaeHyeon
-- 👀 I’m interested in computer science and coding.
-- 🌱 I’m currently in university but I study alone.
-- 💞️ 흐음..... 콜라보 하실분 구해용
-- 📫 How to reach me nwlef1229@naver.com OR rexnamccx1229@gmail.com .
+제가 할줄 아는겁니다.
 
-<!---
-NamJaeHyeon/NamJaeHyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+3d 렌더링 로직 알고리즘 짜는거 (행렬가지고 회전변환해서 점 위치 구해내서 화면에 찍어내는거)
+
+C언어 조금 C++ 조금 C# 조금
+
+Java 조금
+
+Python 엄청 많이 해봄.
+
+JavaScript 엄청 많이 해봄.
+
+게시판 만들기
+
+api 구현하기
+
+프로그래머스 코테 2렙짜리 제한시간 내에 풀기
+
+프로그래머스 코테 4렙짜리 하루종일 시간 투자해서 풀어내기
+
+exe 프로그램 만들기
+
+GUI 구성하기
+
+크롤링하기
+
+매크로 만들기
+
+쿠키, 세션 조종하기
+
+데이터 베이스 환경 세팅하기
+
+딥러닝 알고리즘 구현하기(backpropagation 방식으로 3중 반복문(레이어단, 앞단, 뒷단)으로)
+
+수학 문제 풀이
+
+물리 문제 풀이
+
+리액트랑 html css ajax jquery 등등 할줄 앎
+
+한글 유니코드 다루기
