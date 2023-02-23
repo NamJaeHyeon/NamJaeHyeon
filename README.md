@@ -55,3 +55,52 @@ https://kotro.org 프로젝트
 AWS(Amazon Web Service) 아마존 클라우드
 
 GCP(Google Cloud Platform) 구글 클라우드
+
+
+
+
+
+    
+        
+          
+           
+            
+             
+              
+               
+               
+곧 공부할 겁니다.
+   
+jwt, Oauth 등 Authurization
+
+b+tree 알고리즘과 node length에 따른 효율성
+
+자연어 인공지능, 생성 인공지능, 이미지 처리 인공지능, 강화학습 등의 인공지능 분야
+
+3D 렌더링 엔진 최적화하는 방법 구상
+
+GPU로 가속하는 법
+
+html의 모든 태그 훑어보기
+
+css 깊게 공부하기
+
+browser의 JavaScript DOM 객체 모두 훑어보기
+
+Java로 코딩 테스트 풀기
+
+Java Spring 프레임 워크를 이용하여 게시판 구현하기
+
+VM instance에서 C로 Git 알고리즘 구현하고 서비스화 하기
+
+코딩테스트 역량 높이기
+
+Windows 운영체제보다 상위 권한으로 프로그램 실행하기
+
+DB query 알고리즘 만들어보기
+
+프로그램 최적의 로직 구성 방법에 최적화된 추상화 로직 구상하기
+
+하드웨어와 소프트웨어 사이의 관계를 물리학의 관점에서 파악하기
+
+
