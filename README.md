@@ -60,7 +60,7 @@ GCP(Google Cloud Platform) 구글 클라우드
 
     
                
-# 다음은 곧 공부할 겁니다. (예상 공부 기간 : 1년(?))
+# 다음은 곧 공부할 겁니다. (예상 공부 기간 : 2년(?))
    
 jwt, Oauth 등 Authurization
 
