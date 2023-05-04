@@ -44,15 +44,13 @@ GUI를 포함한 exe 프로그램 만들기
 
 수학 문제 풀이
 
-고전 문제 풀이
+고전 역학 수치해석 문제 풀이
 
 한글 유니코드 다루기
 
 JavaScript DateJS 라이브러리 만들기 (공휴일 판정 알고리즘 제공)
 
 HashTable과 BinarySearch 성능 비교 알고리즘 작성 (JavaScript)
-
-git clone, init, commit, push
 
 Linux (Ubuntu, Debian) 터미널 다루기
 
