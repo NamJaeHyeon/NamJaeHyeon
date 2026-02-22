@@ -38,6 +38,8 @@
 
 # 알고 있는 지식 / 이룬 성과
 
+RUST
+
 양옆에서 건장한 성인 남성들이 100번 중 한 번꼴로 냅다 어깨빵을 날리는 지하철에 서 있는 cartpole 에이전트 설계
 
 컴퓨터 구조 : 파이프라인, 메모리 계층, IEEE 754 부동소수점, MIPS 아키텍처 설계, RISC-V 아키텍처 설계 등    
@@ -54,7 +56,7 @@ Java는 대충 동작 원리 정도와 검색해서 코딩할 수 있을 정도�
 
 Python 외주 많이 해봤습니다. (ctypes, pyqt5, requests 등)
 
-JavaScript 엄청 많이 해봤습니다. (reference type, 숫자 자료형 구조, 비동기 등 거의 모든 문법을 다 알고 있습니다)
+JavaScript 많이 해봤습니다. (reference type, 숫자 자료형 구조, 비동기 등 거의 모든 문법을 다 알고 있습니다)
 
 Node.js 게시판 만들기 (실시간 채팅도 구현)
 
@@ -78,7 +80,7 @@ GUI를 포함한 exe 프로그램 만들기
 
 데이터 베이스 환경 세팅하기 (DBMS를 공부한 경험이 적음)
 
-딥러닝 알고리즘 구현하기(backpropagation 방식으로 3중 반복문(레이어단, 앞단, 뒷단)으로)
+딥러닝
 
 수학 문제 풀이
 
@@ -92,11 +94,9 @@ HashTable과 BinarySearch 성능 비교 알고리즘 작성 (JavaScript)
 
 Linux (Ubuntu, Debian) 터미널 다루기
 
-https://kotro.org 프로젝트
+AWS(Amazon Web Service) 아마존 클라우드 웹 서버 호스팅 경험
 
-AWS(Amazon Web Service) 아마존 클라우드
-
-GCP(Google Cloud Platform) 구글 클라우드    
+GCP(Google Cloud Platform) 구글 클라우드 웹 서버 호스팅 경험    
 
 # 연구 중    
 
